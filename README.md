@@ -1,6 +1,8 @@
 ## Hi there 👋
 
 > My name is Avidipta please checkout all of my projects and skills!
+<details>
+   <summary>My top skills!</summary>
 
  | Rank |   TOP-SKILLS  |
  |-----:|---------------|
@@ -11,6 +13,9 @@
  |     5|  JavaScript   |
  |     6|     CSS       |
  |     7|  Networking   |
+
+ </details>
+
 
 <!--
 **Avidiptab17/Avidiptab17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
