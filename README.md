@@ -2,7 +2,7 @@
 <p align="center">
    <a href="https://x.com/Avidipta_17?sub_confimation=1">
       <img alt="twitter" title="@Avidipta_17" src="https://img.shields.io/twitter/follow/Avidipta_17"/>
-
+      <img alt="HOLOPIN" title="Badges" src="https://www.holopin.io/userbadge/cm1xivkye18490cle7qrq77l1"/>
    </a>
    </p>
 
