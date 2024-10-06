@@ -19,12 +19,6 @@
  |     6|     CSS       |
  |     7|  Networking   |
 
-<p align="center">
- <a href="https://www.holopin.io/@avidiptab17#">
-      <img alt="Holopin" title="Badges Earned" src="https://www.holopin.io/userbadge/cm1xivkye18490cle7qrq77l1"/>
- </a>
-</p>
-
  </details>
 
 
