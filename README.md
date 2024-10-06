@@ -2,7 +2,6 @@
 <p align="center">
    <a href="https://x.com/Avidipta_17?sub_confimation=1">
       <img alt="twitter" title="@Avidipta_17" src="https://img.shields.io/twitter/follow/Avidipta_17"/>
-      <img alt="HOLOPIN" title="Badges" src="https://www.holopin.io/userbadge/cm1xivkye18490cle7qrq77l1"/>
    </a>
    </p>
 
@@ -19,6 +18,12 @@
  |     5|  JavaScript   |
  |     6|     CSS       |
  |     7|  Networking   |
+
+<p align="center">
+ <a href="https://www.holopin.io/@avidiptab17#">
+      <img alt="Holopin" title="Badges Earned" src="https://www.holopin.io/userbadge/cm1xivkye18490cle7qrq77l1"/>
+ </a>
+</p>
 
  </details>
 
