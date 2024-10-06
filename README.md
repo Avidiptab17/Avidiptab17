@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 > My name is Avidipta please checkout all of my projects and skills!
->
->| Rank |   TOP-SKILLS  |
+
+ | Rank |   TOP-SKILLS  |
  |-----:|---------------|
  |     1|    Python     |
  |     2|      C        |
