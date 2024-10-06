@@ -20,7 +20,7 @@
  |     7|  Networking   |
 
  </details>
-[![An image of @avidiptab17's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/avidiptab17)]
+[![An image of @avidiptab17's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/avidiptab17)](https://holopin.io/@avidiptab17)
 
 <!--
 **Avidiptab17/Avidiptab17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
