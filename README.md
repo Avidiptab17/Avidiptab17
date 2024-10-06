@@ -1,4 +1,10 @@
-## Hi there 👋
+<h2 align="center"> Hello! I'm Avidipta </h2>
+<p align="center">
+   <a href="https://x.com/Avidipta_17?sub_confimation=1">
+      <img alt="twitter" title="@Avidipta_17" src="https://img.shields.io/twitter/follow/Avidipta_17"/>
+
+   </a>
+   </p>
 
 > My name is Avidipta please checkout all of my projects and skills!
 <details>
