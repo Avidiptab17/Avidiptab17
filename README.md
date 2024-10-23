@@ -35,9 +35,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![An image of @avidiptab17's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/avidiptab17)
-
-## GSSOC(24) Badges 🪶      
-
-<div style='display:flex; align-items:center; gap: 10px;' align='center'>
-<img src="https://github.com/user-attachments/assets/ebf6476f-c302-457a-874f-5b0f5c707d43" width="100px" height="100px" />
-</div>
