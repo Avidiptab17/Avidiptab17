@@ -22,7 +22,7 @@
  </details>
  ## Hacktoberfest(24) Badges 🪶        
  <div style='display:flex; align-items:center; gap: 10px;' align='center'> 
-    <img src="https://holopin.me/avidiptab17" width="1000px" height="100px" /> 
+    <img src="https://holopin.me/avidiptab17" width="1000px" height="400px" /> 
  </div>
 ## GSSOC(24) Badges 🪶        
 <div style='display:flex; align-items:center; gap: 10px;' align='center'> 
