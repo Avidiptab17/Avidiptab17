@@ -26,7 +26,7 @@
  </div>
 ## GSSOC(24) Badges 🪶        
 <div style='display:flex; align-items:center; gap: 10px;' align='center'> 
-   <img src="https://github.com/user-attachments/assets/ebf6476f-c302-457a-874f-5b0f5c707d43" width="100px" height="100px" /> 
+   <img src="https://github.com/user-attachments/assets/ebf6476f-c302-457a-874f-5b0f5c707d43" width="1000px" height="100px" /> 
 </div>
 <!--
 **Avidiptab17/Avidiptab17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
