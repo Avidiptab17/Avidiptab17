@@ -1,4 +1,4 @@
-<h2 align="center"> Hello! I'm Avidipta </h2>
+![Share Badge (1)](https://github.com/user-attachments/assets/c16dbe33-95f4-498d-b82a-a08efc785604)<h2 align="center"> Hello! I'm Avidipta </h2>
 <p align="center">
    <a href="https://x.com/Avidipta_17?sub_confimation=1">
       <img alt="twitter" title="@Avidipta_17" src="https://img.shields.io/twitter/follow/Avidipta_17"/>
@@ -27,6 +27,11 @@
 ## GSSOC(24) Badges 🪶        
 <div style='display:flex; align-items:center; gap: 10px;' align='center'> 
    <img src="https://github.com/user-attachments/assets/ebf6476f-c302-457a-874f-5b0f5c707d43" width="100px" height="100px" /> 
+   <img src="https://gssoc.girlscript.tech/badges/1.png?imwidth=96" width="100px" height="100px" />
+   <img src="https://gssoc.girlscript.tech/badges/2.png?imwidth=96" width="100px" height="100px" />
+   <img src="https://gssoc.girlscript.tech/badges/3.png?imwidth=96" width="100px" height="100px" />
+   <img src="https://gssoc.girlscript.tech/badges/4.png?imwidth=96" width="100px" height="100px" />
+   <img src="https://gssoc.girlscript.tech/badges/5.png?imwidth=96" width="100px" height="100px" />
 </div>
 <!--
 **Avidiptab17/Avidiptab17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
