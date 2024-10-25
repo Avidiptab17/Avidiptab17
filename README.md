@@ -1,4 +1,4 @@
-![Share Badge (1)](https://github.com/user-attachments/assets/c16dbe33-95f4-498d-b82a-a08efc785604)<h2 align="center"> Hello! I'm Avidipta </h2>
+<h2 align="center"> Hello! I'm Avidipta </h2>
 <p align="center">
    <a href="https://x.com/Avidipta_17?sub_confimation=1">
       <img alt="twitter" title="@Avidipta_17" src="https://img.shields.io/twitter/follow/Avidipta_17"/>
